@@ -40,7 +40,7 @@ computer organization
 内容要点：基本的输入输出控制方式，常用的输入输出设备类型
 
 
-
+推荐的主要教材是《计算机组成与设计》（英文版·第4版）Computer Organization and Design, Fourth Edition，作者：David A. Patterson  John L. Hennessy；另外也推荐阅读 《Intel微处理器》（第8版）The Intel Microprocessors, Eighth Edition，作者：Barry B. Brey
 
 
 1. 计算机基础结构（难度系数2）
